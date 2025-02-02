@@ -21,4 +21,7 @@ A simple cloud storage web application that allows users to upload, download, an
 
 ## Screenshots
 (Include screenshots of the project here)
+https://i.postimg.cc/2jtzFbwg/Screenshot-1354.png
+https://i.postimg.cc/pLfRH0Ht/Screenshot-1355.png
+https://i.postimg.cc/0NZv6bjW/Screenshot-1356.png
 
