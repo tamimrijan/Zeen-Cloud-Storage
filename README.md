@@ -1,7 +1,5 @@
 # Zeen-Cloud-Storage
 
-# Simple Cloud Storage
-
 A simple cloud storage web application that allows users to upload, download, and manage files. Built using PHP, MySQL, HTML, CSS, and JavaScript, this project is designed to run on XAMPP.
 
 ## Features
